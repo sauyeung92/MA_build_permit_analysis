@@ -1,2 +1,4 @@
 # MA_build_permit_analysis
 This project aims to investigate the residential housing supply within the state of Massachusetts and how the supply rate has been affected due to COVID-19 restrictions. Data was obtained from the United States Census Bureau. This data source was chosen because by analyzing permit applications, we can determine where future housing is planning on being constructed; this data is not typically listed on commercial real estate listing websites because the construction process has not begun yet.
+
+Note initially a virtual env was created and the respective packages was installed via the pip installer. There were subsequent issues with the geopandas environement and whl files. As a result, the anaconda package was installed and is used primarily to run the Jupyter Notebook.
